@@ -38,7 +38,7 @@
 <body>
 
   <div class="invitation">
-    <h1>You're Invited!</h1>
+    <h1>You're Invited me!</h1>
     <p>Dear Friend,</p>
     <p>We’re gathering for a special day and would love for you to be part of it. Join us for a cozy celebration surrounded by good company and nature's beauty.</p>
     
